@@ -8,3 +8,4 @@ Gofer new
     url: 'http://smalltalkhub.com/mc/SergeStinckwich/libUrbiST/main';
     configurationOf:'LibUrbi';
     loadVersion: '0.2'
+```
