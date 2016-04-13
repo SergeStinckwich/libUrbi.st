@@ -1,0 +1,14 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'LibUrbi',
+      #repository : 'http://smalltalkhub.com/mc/SergeStinckwich/libUrbiST/main',
+      #load : [ 'default' ],
+      #platforms : [
+        #pharo ]
+    }
+  ],
+  #testing : {
+    #categories : [ 'LibUrbi-Tests' ]
+  }
+}
